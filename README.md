@@ -1,2 +1,2 @@
 # TSDelphi
-Delphi wrapper for TradeStation
+Delphi sample for TradeStation GDS COM Interface
